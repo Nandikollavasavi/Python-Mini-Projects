@@ -8,9 +8,4 @@ Features:
 - Delete Contact
 - Exit
 
-Concepts Used:
-- Lists
-- Dictionaries
-- Loops
-- Functions
-- Conditions
+Project 2: Quiz Game
