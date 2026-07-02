@@ -17,3 +17,5 @@ Project 4: Number Guessing Game Pro
 Project 5: Age Calculator
 
 Project 6: Password Generator
+
+Project 7: Rock, Paper, Scissors
