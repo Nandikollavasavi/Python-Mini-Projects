@@ -19,3 +19,5 @@ Project 5: Age Calculator
 Project 6: Password Generator
 
 Project 7: Rock, Paper, Scissors
+
+Project 8: ATM Simulator
